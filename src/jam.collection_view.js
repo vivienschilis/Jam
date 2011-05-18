@@ -30,6 +30,6 @@ Jam.CollectionView = function (name, options) {
     this.render()
     return collection;
   };
-
+  
   return collectionView;
 }
